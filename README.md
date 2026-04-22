@@ -13,7 +13,7 @@ Paradigm: Structured and Object-Oriented Programming
 Getting Started
  git clone https://github.com/JoviMs/Vehicle-Repair-System.git
  cd Vehicle-Repair-System
-Compile using your C/C++ compiler (e.g. GCC or the IDE used in class):
+Compile using your C/C++ compiler (Microsoft VS code):
  g++ -o VehicleRepair main.cpp
  ./ VehicleRepair
  
